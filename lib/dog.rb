@@ -10,8 +10,8 @@ class Dog
     @raj 
   end 
   
-  def bark 
-    puts "woof"
+  def bark
+    puts "woof!"
     
   end 
 end 
